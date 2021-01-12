@@ -1,0 +1,2 @@
+Treasure{number=11, description='Treasure 11', cost=131}
+Treasure{number=11, description='Treasure 11', cost=131}
