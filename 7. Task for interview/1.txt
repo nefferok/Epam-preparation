@@ -1,0 +1,4 @@
+1 Busel 1 5
+2 Popkin 8.2 true
+3 Petrov true flase true true true
+2 Ivanov 2.2 true
